@@ -22,5 +22,9 @@ int get_size(const char *format, int *i)
 	else
 		*i = curr_i;
 
+<<<<<<< HEAD
+	return (size);
+=======
 	return (size);
+>>>>>>> 545af084273ac13d8c5d2b0ebfeeb91a09096a35
 }

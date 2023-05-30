@@ -32,5 +32,9 @@ int get_width(const char *format, int *i, va_list list)
 
 	*i = curr_i - 1;
 
+<<<<<<< HEAD
+	{return ( width);
+=======
 	return (width);
+>>>>>>> 545af084273ac13d8c5d2b0ebfeeb91a09096a35
 }
